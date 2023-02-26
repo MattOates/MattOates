@@ -4,6 +4,10 @@
 
 I'm Matt Oates and I'm an engineer, scientist and business leader. I'm from the UK, living in Bristol and currently working for myself. You can find me on [LinkedIn](https://www.linkedin.com/in/meoates/) or [Google Scholar](http://scholar.mattoates.co.uk/)
 
+- 🔭 I’m currently working on private projects in the world of human genetics data.
+- 🌱 I’m currently learning about the transformer architecture and large language models.
+- 👯 I’m looking to collaborate on any interesting bioinformatics project, or anything around software education and volunteering.
+- 📫 How to reach me: via the LinkedIn link above as a first bet.
 
 ## 🔧 Technologies & Tools
 
