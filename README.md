@@ -1,6 +1,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MattOates&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattOates&theme=tokyonight&hide=javascript,html&langs_count=8&layout=compact)](https://github.com/MattOates/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattOates&theme=tokyonight&hide_border=true&hide=javascript,html&langs_count=8&layout=compact)](https://github.com/MattOates/github-readme-stats)
 
 
 <!--
