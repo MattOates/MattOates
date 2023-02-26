@@ -1,5 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MattOates&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MattOates&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MattOates&show_icons=true&theme=gruvbox)
 
 
 <!--
