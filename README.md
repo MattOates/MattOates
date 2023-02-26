@@ -17,6 +17,7 @@ I'm Matt Oates and I'm an engineer, scientist and business leader. I'm from the 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=A020F0)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=A020F0)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=A020F0)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=A020F0)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=A020F0)
 ![](https://img.shields.io/badge/Code-Raku-informational?style=flat&color=A020F0)
 ![](https://img.shields.io/badge/Code-Icon-informational?style=flat&color=A020F0)
