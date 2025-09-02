@@ -28,6 +28,7 @@ I'm Matt Oates and I'm an engineer, scientist and business leader. I'm from the 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=A020F0)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=A020F0)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon&logoColor=white&color=A020F0)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google&logoColor=white&color=A020F0)
 
 ## &#x1f4c8; GitHub Stats
 
