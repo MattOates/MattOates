@@ -2,7 +2,7 @@
 
 # Hi!
 
-I'm Matt Oates and I'm an engineer, scientist and business leader. I'm from the UK, living in Bristol and currently working for Biorelate ltd. You can find me on [LinkedIn](https://www.linkedin.com/in/meoates/) or [Google Scholar](http://scholar.mattoates.co.uk/)
+I'm Matt Oates and I'm an engineer, scientist and business leader. I'm from the UK, living in Bristol and currently working for [Biorelate ltd](https://biorelate.com/). You can find me on [LinkedIn](https://www.linkedin.com/in/meoates/) or [Google Scholar](http://scholar.mattoates.co.uk/)
 
 - 🔭 I’m currently working on private projects in the world of human genetics data.
 - 🌱 I’m currently learning about the transformer architecture and large language models.
